@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Felipe Moehlecke</h1>
-<h3 align="center">Apaixonado por análise de dados e desenvolvimento web!</h3>
+<h3 align="center">Apaixonado por Análise de Dados e Desenvolvimento Web!</h3>
 
 - 🌱 Atualmente estou aprendendo **Javascript e Php **
 
